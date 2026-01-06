@@ -3,11 +3,6 @@
 <br />
 <div align="center">
 
-<!-- 🔥 LOGO -->
-<img src="https://raw.githubusercontent.com/salman-webdevexp/assets/main/logo.png" alt="Modern Portfolio Logo" width="120" />
-
-<br /><br />
-
 ## 🧑‍💻 Modern Portfolio  
 A sleek, stylish, and fully responsive **Modern Personal Portfolio Website UI** built using HTML, CSS, and JavaScript.  
 Designed to showcase skills, projects, and personal branding with a contemporary and professional visual style.
