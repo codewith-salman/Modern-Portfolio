@@ -1,6 +1,4 @@
 <div id="top"></div>
-
-<br />
 <div align="center">
 
 ## 🧑‍💻 Modern Portfolio  
@@ -40,7 +38,6 @@ Perfect for:
 - Projects and skills showcase  
 - Smooth hover animations and transitions  
 - Elegant typography and spacing  
-- Easy to customize for any individual  
 
 ---
 
