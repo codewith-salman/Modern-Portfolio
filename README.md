@@ -1,57 +1,108 @@
 <div id="top"></div>
+
+<br />
 <div align="center">
 
-## 🧑‍💻 Modern Portfolio  
-A sleek, stylish, and fully responsive **Modern Personal Portfolio Website UI** built using HTML, CSS, and JavaScript.  
-Designed to showcase skills, projects, and personal branding with a contemporary and professional visual style.
+<!-- 🔰 BADGES -->
+![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/modern-portfolio)
+![GitHub stars](https://img.shields.io/github/stars/codewith-salman/modern-portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewith-salman/modern-portfolio?style=social)
 
-</div>
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://modern-portfolio-three-ruby.vercel.app/)
+[![GitHub Follow](https://img.shields.io/github/followers/codewith-salman?style=social)](https://github.com/codewith-salman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Salman%20Arshad-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/muhammad-salmanarshad/)
+[![Figma](https://img.shields.io/badge/Figma-codewithsalman-black?style=social&logo=figma)](https://www.figma.com/@codewithsalman)
+[![Email](https://img.shields.io/badge/Email-msalmanwebdev%40gmail.com-red?style=social&logo=gmail)](mailto:msalmanwebdev@gmail.com)
 
 <br />
 
-<!-- ABOUT THE PROJECT -->
+<!-- 🔰 PROJECT LOGO -->
+<img src="Personal%20Portfolio/assets/images/logo.png" alt="Modern Portfolio Logo" width="120"/>
+
+<br />
+<br />
+
+<h1 align="center">🧑‍💻 Modern Portfolio</h1>
+
+A sleek, stylish, and fully responsive  
+**Modern Personal Portfolio Website UI** built using **HTML, CSS, and JavaScript**.
+
+<a href="https://modern-portfolio-three-ruby.vercel.app/"><strong>➥ Live Demo</strong></a>
+
+</div>
+
+---
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>📑 Table of Contents</summary>
+  <ol>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+---
+
 ## 📖 About The Project
 
 <img src="Personal%20Portfolio/assets/images/desktop.png" alt="Modern Portfolio Desktop View" width="100%" />
-<img src="Personal%20Portfolio/assets/images/mobile.png" alt="Modern Portfolio Desktop View" width="100%" />
+<img src="Personal%20Portfolio/assets/images/mobile.png" alt="Modern Portfolio Mobile View" width="100%" />
 
-The **Modern Portfolio** is a clean and elegant personal portfolio website concept created for developers, designers, and creative professionals.  
-It emphasizes modern layout techniques, smooth animations, and strong typography to deliver a polished and engaging user experience.
+The **Modern Portfolio** is a clean and elegant personal portfolio website designed for developers, designers, and creative professionals to showcase their skills, projects, and personal brand.
 
-This project demonstrates your ability to design **modern web interfaces**, structure portfolio content effectively, and implement responsive layouts that adapt seamlessly across all devices.  
-From the hero section to project showcases and contact areas, Modern Portfolio reflects a strong and confident personal brand.
+The layout focuses on:
+- Modern UI patterns  
+- Strong typography and spacing  
+- Smooth transitions and hover effects  
+- Responsive design across all devices  
 
-Perfect for:
+This project demonstrates your ability to build **professional portfolio websites** that communicate personality, credibility, and technical skills effectively.
+
+Ideal for:
 - Developer and designer portfolios  
 - Personal branding websites  
 - Freelancer showcase pages  
 - Creative portfolio layouts  
 - UI/UX and modern design practice  
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ---
 
-### ✨ Features
+## ✨ Features
 
 - Fully responsive modern portfolio layout  
 - Clean and contemporary UI design  
 - Hero section with strong personal branding  
-- Projects and skills showcase  
+- Projects and skills showcase sections  
 - Smooth hover animations and transitions  
 - Elegant typography and spacing  
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ---
 
-### 🛠️ Built With
+## 🛠️ Built With
 
-* [HTML5](https://html5.org/)  
-* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+This project is built using:
+
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (Vanilla)**  
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
 ## 📬 Contact
 
-**LinkedIn** – [Muhammad Salman Arshad](https://www.linkedin.com/in/muhammad-salmanarshad/)  
-**Email** – [msalmanwebdev@gmail.com](mailto:msalmanwebdev@gmail.com)
+**Muhammad Salman Arshad**
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-salmanarshad/  
+- 🎨 **Figma:** https://www.figma.com/@codewithsalman  
+- 📧 **Email:** [msalmanwebdev@gmail.com](mailto:msalmanwebdev@gmail.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
