@@ -63,8 +63,6 @@ Ideal for:
 - Creative portfolio layouts  
 - UI/UX and modern design practice  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -76,8 +74,6 @@ Ideal for:
 - Smooth hover animations and transitions  
 - Elegant typography and spacing  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -87,8 +83,6 @@ This project is built using:
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (Vanilla)**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
