@@ -51,7 +51,6 @@ The **Modern Portfolio** is a clean and elegant personal portfolio website desig
 The layout focuses on:
 - Modern UI patterns  
 - Strong typography and spacing  
-- Smooth transitions and hover effects  
 - Responsive design across all devices  
 
 This project demonstrates your ability to build **professional portfolio websites** that communicate personality, credibility, and technical skills effectively.
